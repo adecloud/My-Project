@@ -1,0 +1,2 @@
+This is to test how to use the vim editor in command line interface and it is going fine
+control u and control d is not working to move the tab up and down
